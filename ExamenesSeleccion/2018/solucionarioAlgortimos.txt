@@ -1,0 +1,17 @@
+Problema A
+	C++: https://ideone.com/U0QvcF
+	Python: https://ideone.com/1MHG6t
+	
+Problema B
+	C++: https://ideone.com/rsCSH4   ,   https://ideone.com/hTQL1V
+	Python: https://ideone.com/PtucBV
+
+Problema C
+	C++: https://ideone.com/l6qqFO 
+	Python: https://ideone.com/kArNa2
+
+Problema D
+	C++: https://ideone.com/broeSJ 
+
+Problema E
+	Python: https://ideone.com/Np0fkw
