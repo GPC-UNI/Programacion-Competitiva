@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# run on python3
+
 import sys
 import bisect as bs
  
