@@ -15,7 +15,7 @@ int main() {
      *
      */
     
-    vector <int> mi_vector;  // creamos un vector de enteros
+    vector <int> mi_vector;  // creamos un vector vacío de enteros
     // mi_vector = []
     mi_vector.push_back(3);          // agregamos un elemento
     // mi_vector = [3]
@@ -25,19 +25,19 @@ int main() {
     // mi_vector = [3, 5, 8]
     mi_vector.pop_back();            // eliminamos el último elemento
     // mi_vector = [3, 5]
-    mi_vector.push_back(10);         // agregmos otro elemento
+    mi_vector.push_back(10);         // agregamos otro elemento
     // mi_vector = [3, 5, 10]
     
     /**
      * mi_vector = [3, 5, 10]
-     * podemos acceder a cada elemento asi:
-     * mi_vector[indice]
+     * podemos acceder a cada elemento así:
+     * mi_vector[índice]
      * entonces
      * mi_vector[0] : 3
      * mi_vector[1] : 5
      * mi_vector[2] : 10
-     * Notemos que (indice) comienza a contarse desde 0
-     * Luego, si queremos imprimir todos lo elemento de nuestro vector podemos hacer de estas maneras
+     * Notemos que (índice) comienza a contarse desde 0
+     * Luego, si queremos imprimir todos los elementos de nuestro vector podemos hacerlo de las siguientes maneras
      */
     
     // método 1
@@ -49,17 +49,17 @@ int main() {
         cout << "mi_vector[" << indice << "] = " << mi_vector[indice] << endl;
     }
     
-    // notemos que con el método 2 puedes saber el indice que corresponde a cada elemento y el valor en esa posicion
+    // notemos que con el método 2 puedes saber el índice que corresponde a cada elemento y el valor en esa posición
     // mientras que con el método 1 solo el valor asociada a cada posición
     
     /**
-     * Más información aqui:
+     * Más información de vectores aqui:
      * http://www.cplusplus.com/reference/vector/vector/
      */
     
     /**
-     * Los vectores son en realidad arrays dinámicos que con ciertos métodos (funciones) ya que puedemos ir agregando y quitando elementos
-     * Si deseamos un array estatico (tenemos definido el numero de elementos) podemos declararlos así:
+     * Los vectores son en realidad arrays dinámicos con ciertos métodos (funciones) ya que puedemos ir agregando y quitando elementos
+     * Si deseamos un array estático (tenemos definido el número de elementos máximo) podemos declararlos así:
      * 
      * tipo_de_dato nombre_de_variable[cantidad_de_elementos]
      *
@@ -67,7 +67,7 @@ int main() {
      * int v[100]; 
      * es un array estático de 100 enteros
      *
-     * Más información aquí:
+     * Más información de arrays estáticos aquí:
      * http://www.cplusplus.com/doc/tutorial/arrays/
      */
     

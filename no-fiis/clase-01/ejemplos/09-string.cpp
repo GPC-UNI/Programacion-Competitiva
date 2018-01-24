@@ -35,11 +35,52 @@ int main() {
         cout << "cadena_1[" << pos << "] = " << (int) cadena_1[pos] << endl;
     }
     
+    /**
+     * Por otro lado, una situación común en CP es tener que recorrer las letras del abecedario
+     * Si bien podemos hacerlo así:
+     * string abecedario = "abcd....xyz";
+     * for (char letra : abecedario) cout << letra << endl;
+     * Una forma más sencilla se puede lograr utilizando el hecho de que el número asociado a las letras
+     * del abecedario están distribuidos de forma continua
+     *
+     * 'a' : 97
+     * 'b' : 98
+     * 'c' : 99
+     * .
+     * .
+     * .
+     * 'x' : 120 
+     * 'y' : 121
+     * 'z' : 122
+     */
+    // recorriendo el abecedario
+    for (char ch = 'a'; ch <= 'z'; ch++) cout << ch << endl;
+    
+    /**
+     * Análogamente para las letras mayúsculas tenemos:
+     *
+     * 'A' : 65 
+     * 'B' : 66
+     * 'C' : 67
+     * .
+     * .
+     * .
+     * 'X' : 88
+     * 'Y' : 89
+     * 'Z' : 90
+     */
+    for (char ch = 'A'; ch <= 'Z'; ch++) cout << ch << endl;
+    
+   
+    /**
+     * Nota 1: En CP la entrada es en Inglés asi que no se considera la ñ
+     */
+    
             /**
-             * Además, en la actualidad el estandar de esas equivalencias entre números y caracteres
+             * Además, en la actualidad el estándar de esas equivalencias entre números y caracteres
              * ya no se hace por el ASCII, se hacer por el UNICODE
-             * Y como un char solo aguanta 2 ^ 8 números y además hay caracteres complicados en algunos lenguajes que estan compuestas por varias letras
-             * suceden situaciones en la que un caracter se guarda en mas de un char, por ejemplo:
+             * Y como un char solo aguanta 2 ^ 8 números y además hay caracteres complicados en algunos lenguajes que están compuestas por varias letras
+             * suceden situaciones en la que un caracter se guarda en más de un char, por ejemplo:
              */
 
             string cadena_2 = "á";
@@ -48,31 +89,30 @@ int main() {
             cout << "El tamaño de cadena_2 es : " << cadena_2.size() << endl;
 
             // Por ello, en general, la forma más segura de recorrer un string es
-
             for (char elemento : cadena_2) cout << elemento;
             cout << endl;
 
-            // Pues, con este método nos saldran resultados extraños
+            // Pues, con este método nos saldrán resultados extraños en estas situaciones
             for (int pos = 0; pos < cadena_2.size(); pos++) {
                 cout << "cadena_2[" << pos << "] = " << cadena_2[pos] << endl;
             }
 
-            // Podemos observar mejor el porque si vemos el numero asociado al caracter 'á'
+            // Podemos observar mejor el porqué si vemos el número asociado al caracter 'á'
             for (int pos = 0; pos < cadena_2.size(); pos++) {
                 cout << "cadena_2[" << pos << "] = " << (int) cadena_2[pos] << endl;
             }
             // cadena_2[0] = -61
             // cadena_2[1] = -95
-            // notamos que 'á' esta guarda como una tupla de números (-61, -95) y no como un solo numero que es el caso 'normal'
-    
-    /**
-     * Lo anterior es solo como cultura general y para responder a lo que preguntaron
-     * En CP la entrada siempre es en inglés asi que solo vienes caracteres a los que estan asociados un solo números
-     * por lo que no hay necesidad de preocuparse de la cuestion anterior
-     */
+            // notamos que 'á' esta guarda como una tupla de números (-61, -95) y no como un solo número que es el caso 'normal'
+
+            /**
+             * Esto es solo como cultura general y para responder a lo que preguntaron
+             * En CP la entrada siempre es en Inglés asi que solo vienen caracteres a los que estan asociados un solo número
+             * por lo que no hay necesidad de preocuparse de esta cuestión
+             */
      
     /**
-     * Más informacion de string aquí:
+     * Más informacion de strings aquí:
      * http://www.cplusplus.com/reference/string/string/
      * Además, tambien es bueno que conoscan algunas funciones básicas usadas con chars, información aquí:
      * http://www.cplusplus.com/reference/cctype/

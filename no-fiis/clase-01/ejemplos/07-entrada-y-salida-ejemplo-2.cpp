@@ -4,11 +4,11 @@ using namespace std;
 
 int main() {
     /**
-     * Probllema
+     * Problema
      * Recibiremos un número t
      * Si t es 1 recibiremos 3 números y tenemos que imprimir la suma de ellos
      * Si t es 2 recibiremos 2 números y tendremos que imprimir el producto
-     * Si t es 3 recibiremos un numeros y tendremos que imprimir ese numero elevado al cuadrado
+     * Si t es 3 recibiremos un número y tendremos que imprimir ese número elevado al cuadrado
      *
      */
     

@@ -8,13 +8,14 @@ int main() {
     /**
      * int
      * Guarda números enteros en el rango (-2 ^ 32, 2 ^ 32) lo cual es aproximadamente [-2 * 10 ^ 9, 2 * 10 ^ 9]
-     * Por defecto cuando inicializar una variable como un numero entero se guarda como un int
+     * Por defecto cuando inicializamos una variable como un número entero se guarda como un int
      */
     int num_1 = 10;
     
     /**
-     * long long números enteros en el rango (-2 ^ 64, 2 ^ 64) lo cual es aproximadamente [-9 * 10 ^ 18, 9 * 10 ^ 18]
-     * usalo si requieres guardar numeros que no entran en el rango de un in
+     * long long
+     * Guarda números enteros en el rango (-2 ^ 64, 2 ^ 64) lo cual es aproximadamente [-9 * 10 ^ 18, 9 * 10 ^ 18]
+     * úsalo si requieres guardar números que no entran en el rango de un int
      * Nota 1: Para iniciar un número como un long long de manera directa debes agregar 'LL' al final del número, por ejemplo
      * 12LL : 12 (long long) mientras que 12 : 12 (int)
      * Nota 2: long long == long long int
@@ -30,28 +31,28 @@ int main() {
 
     
     /**
-     * Si deseas revisar los limites de cada tipo por ti mism@, puedes llamar a las siguientes constantes
-     * INT_MIN   // minimo int que se puede guardar
+     * Si deseas revisar los límites de cada tipo por ti mism@, puedes llamar a las siguientes constantes
+     * INT_MIN   // mínimo int que se puede guardar
      * INT_MAX   // máximo int que se puede guardar
      * LONG_MIN  // mínimo long que se puede guardar
      * LONG_MAX  // máximo long que se puede guardar
      * LLONG_MIN // mínimo long long que se puede guardar
      * LLONG_MAX // máximo long long que se puede guardar
-     * Más info aqui:
+     * Más información de esto aquí:
      * http://www.cplusplus.com/reference/climits/
      */
     
     
     /**
      * float
-     * Guarda números decimales de hasta 6 dígitos decimales con precision
+     * Guarda números decimales de hasta 6 dígitos decimales con precisión
      * Nota 1: Para iniciar un número como un flotante se agrega una F al final del número
      */
     float num_4 = 12.4F;
     
     /**
      * double
-     * Guarda números decimales de hasta 15 dígitos decimales con precision
+     * Guarda números decimales de hasta 15 dígitos decimales con precisión
      * Nota 1: Por defecto los decimales se guardan como double
      */
     double num_5 = 234554.54554;
@@ -59,13 +60,13 @@ int main() {
     
     /**
      * long double
-     * Guarda números decimales de hasta 18 digitos decimales con precision
+     * Guarda números decimales de hasta 18 dígitos decimales con precisión
      * Nota 1: Para iniciar un número como long double se agrega una L al final del número
      */
     long double num_6 = 1324345.5465656565655L;
     
     /**
-     * Si deseas ver más sobre los limites de cada tipo flotante revisa la documentacion de ellos aqui:
+     * Si deseas ver más sobre los limites de cada tipo flotante revisa la documentación de ellos aqui:
      * http://www.cplusplus.com/reference/cfloat/
      */
     
@@ -88,7 +89,7 @@ int main() {
     bool ejemplo_2 = false;
     
     /**
-     * Más info aqui:
+     * Más info de tipos de datos aquí:
      * http://www.cplusplus.com/doc/tutorial/variables/
      */
     

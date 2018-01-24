@@ -6,7 +6,7 @@ int main() {
     
     /**
      * Operarador asignación (=)
-     * Asigna una expresión (número, calculo, etc) a una variable
+     * Asigna una expresión (número, cálculo, etc) a una variable
      */
     int variable = 3;
     
@@ -18,7 +18,7 @@ int main() {
     bool expresion_1 = (3 == 3);
     
     /**
-     * Operador comparacion de desigualdad (!=)
+     * Operador comparación de desigualdad (!=)
      * Compara si dos expresiones son distintas
      * retorna true si son distintos y false en caso contrario
      */
@@ -38,7 +38,7 @@ int main() {
     bool expresion_3 = (1 <= 1);
     
     /**
-     * Las operaciones básicos que uno requiere hacer son:
+     * Las operaciones básicas que uno requiere hacer son:
      * Suma (+)
      * Resta (-)
      * Multiplicacion (*)
@@ -75,7 +75,7 @@ int main() {
     /**
      * Division (/)
      * Las mismas consideraciones anteriores
-     * Además, tener cuidado de no dividir por 0 o te arrojará un error
+     * Además, ten cuidado de no dividir por 0 o te arrojará un error
      * Nota: Si durante la ejecución de tu programa se realiza una división por 0, el jurado te arrojará un Runtime Error (RE)
      */
     int res_5 = 10 / 5;
@@ -84,7 +84,7 @@ int main() {
      * Módulo (%)
      * a % b = resto de a / b
      * Se calcula así: a % b = a - b * (a / b), donde a / b es división entera
-     * Como indirectamente se calcula la división a / b, entonces b tienes que ser distinto de 0 o te saldra un erroo
+     * Como indirectamente se calcula la división a / b, entonces b tienes que ser distinto de 0 o te saldrá un error
      * Nota 1: Esto se realiza entre enteros, hay formas para hacerlo con números flotantes pero más adelante veremos eso
      */
     int res_6 = 23 % 8;
@@ -92,7 +92,7 @@ int main() {
     
     /**
      * Nota:
-     * Para los operadores aritmeticos anterior, existe una abreviación cuando quiere guardar el resultado en una variable
+     * Para los operadores aritméticos anteriores existe una abreviación cuando se quiere guardar el resultado en una variable
      * variable = variable operacion expresion
      * es equivalente a
      * variable operacion= expresion
@@ -133,13 +133,13 @@ int main() {
     
     /**
      * Nota:
-     * Otra operación comunmente usado es la de hallar un máximo o un mínimo
-     * Para ello puedes usar la funcion max() y min()
+     * Otra operación comúnmente usada es la de hallar un máximo o un mínimo
+     * Para ello puedes usar las funciones max y min
      * Puedes chequear el uso de estas funciones aquí:
      * http://www.cplusplus.com/reference/algorithm/max/
      * http://www.cplusplus.com/reference/algorithm/min/
      *
-     * Más información aqui:
+     * Más información de operadores aquí:
      * http://en.cppreference.com/w/cpp/language/operator_arithmetic
      * http://www.cplusplus.com/doc/tutorial/operators/
      * http://www.cplusplus.com/reference/cmath/pow/

@@ -15,7 +15,7 @@ int main() {
      
      
     /**
-     * Estructura general:
+     * Estructura general del if / else if / else:
      *
      * if (condicion_1) {
      *     Has algo
@@ -48,11 +48,11 @@ int main() {
     else cout << "x = " << x << endl;
     /**
      * Nota 1: El uso de los (else if) y (else) es opcional
-     * Nota 2: Cuando lo que esta dentro de un (if), (else if), (else), (for), (while), ... es una sola sentencia, se pueden omitir los corchetes ({ })
+     * Nota 2: Cuando lo que está dentro de un (if), (else if), (else), (for), (while), ... es una sola sentencia, se pueden omitir los corchetes ({ })
      */
     
     /**
-     * Estrucutra general:
+     * Estructura general del switch:
      *
      * switch(expresion_base) {
      *     case (expresion_1):
@@ -90,7 +90,7 @@ int main() {
     }
     
     /**
-     * Muchas veces tenemos esta situacion
+     * Muchas veces tenemos esta situación
      * if (condicion) {
      *     expresion_1;
      * }
@@ -116,8 +116,8 @@ int main() {
     cout << "z = " << z << endl;
     
     /**
-     * Nota 1: En realidad existe una cuarda estructura de control (goto), pero esta extremadamente recomendado el no usarlo
-     * Mas información de estructuras de control aquí:
+     * Nota 1: En realidad existe una cuarda estructura de control (goto), pero está extremadamente recomendado el no usarlo
+     * Más información de estructuras de control aquí:
      * http://www.cplusplus.com/doc/oldtutorial/control/
      */
     
