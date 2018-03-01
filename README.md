@@ -1,12 +1,48 @@
-﻿# Programación Competitiva UNI 
+﻿# Programación Competitiva UNI
 Curso de programación competitiva elaborado por el grupo de Programación Competitiva UNI, incluye material adicional como charlas y exámenes de selección.
 
-## Equipo de Trabajo : 
-* B.S. Rodolfo Mercado Gonzales
+## Entrenadores :
+* José García Gonzales
+* Josué Julcarima Calle
+* Luis Vásquez Vargas
+* Marco Cáceres Choqqe
 * Miguel Miní Huambachano
+* Rodolfo Mercado Gonzales
 * Víctor Cueva LLanos
 * Víctor Galván Oyola
-* Josué Julcarima Calle
-* Leonidas García Gonzales
+
+## Integrantes del Grupo :
+* Alex Velasque Espinoza
+* Andrés Ocaris Maldonado
+* Bryan Cipriano Tarazona
+* Christian Huanatico Chombo
+* Claudio Flores Uceda
+* Daniel Chávez Sánchez
+* Diego Hurtado de Mendoza
+* Diego López Gil
+* Diego Ucharima Ortiz
+* Felipe Montañez Sosa
+* Hans Acha Carranza
+* Hans Amaro Robladillo
+* Manuel Loaiza Vásquez
+* Sergio Sánchez Rojas
+
+## Ex Integrantes :
+* Daniel Soncco Huarsaya
+* Diego Mansilla Mallqui
+* Eduardo Meléndez Ramírez De Castilla
+* Hans Evangelista Pérez
+* Jason Martínez Vera
+* Jesús Lovon Melgarejo
+* Jonathan Durand Espinoza
+* Kevin Bello Medina
+* Laurence Perales Guerrero
+* Maicol Gómez Zegarra
+* Mario Ynocente Castro
+* Maritza Lapa Romero
+* Roberto Hidalgo Castro
+* Ronald Cardenas Acosta
+* Roy Palacios Rezza
+* Víctor Chura Quispe
 
 Para estar al tanto de noticias sobre el grupo, nos puede seguir en [ProgramacionCompetitivaUNI](https://www.facebook.com/ProgramacionCompetitivaUNI/).
