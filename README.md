@@ -31,13 +31,18 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 * Sergio Sánchez Rojas
 
 ## Ex Integrantes :
+* Anthony Polin Matos
 * César Giglio Badoino
 * Daniel Soncco Huarsaya
+* David López Davalos
 * Diego Mansilla Mallqui
 * Edgar Huaranga Junco
 * Eduardo Meléndez Ramírez De Castilla
+* Francisco Fernández Berrocal
+* Giancarlo Vargas Mendieta
 * Hans Evangelista Pérez
 * Jason Martínez Vera
+* Jefferson Rondan Vilca
 * Jesús Lovon Melgarejo
 * Jonathan Durand Espinoza
 * Jorge Miranda Jaime
@@ -47,6 +52,7 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 * Maicol Gómez Zegarra
 * Mario Ynocente Castro
 * Maritza Lapa Romero
+* Ricardo Zárate Aima
 * Roberto Hidalgo Castro
 * Ronald Cardenas Acosta
 * Roy Palacios Rezza
