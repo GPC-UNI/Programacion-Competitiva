@@ -31,32 +31,24 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 * Sergio Sánchez Rojas
 
 ## Ex Integrantes :
-* Anthony Polin Matos
-* César Giglio Badoino
-* Daniel Soncco Huarsaya
-* David López Davalos
-* Diego Mansilla Mallqui
-* Edgar Huaranga Junco
-* Eduardo Meléndez Ramírez De Castilla
-* Francisco Fernández Berrocal
-* Giancarlo Vargas Mendieta
-* Hans Evangelista Pérez
-* Jason Martínez Vera
-* Jefferson Rondan Vilca
-* Jesús Lovon Melgarejo
-* Jonathan Durand Espinoza
-* Jorge Miranda Jaime
-* Kevin Bello Medina
-* Laurence Perales Guerrero
-* Leonardo León Vera
-* Maicol Gómez Zegarra
-* Mario Ynocente Castro
-* Maritza Lapa Romero
-* Ricardo Zárate Aima
-* Roberto Hidalgo Castro
-* Ronald Cardenas Acosta
-* Roy Palacios Rezza
-* Víctor Chura Quispe
-* Víctor Mandujano Gutiérrez
+
+| A - J | K - Z |
+| ------------- | ------------- |
+| Anthony Polin Matos | Kevin Bello Medina|
+| César Giglio Badoino | Laurence Perales Guerrero |
+| Daniel Soncco Huarsaya | Leonardo León Vera |
+| David López Davalos | Maicol Gómez Zegarra |
+| Diego Mansilla Mallqui | Mario Ynocente Castro |
+| Edgar Huaranga Junco | Maritza Lapa Romero |
+| Eduardo Meléndez Ramírez De Castilla | Ricardo Zárate Aima |
+| Francisco Fernández Berrocal | Roberto Hidalgo Castro |
+| Giancarlo Vargas Mendieta | Ronald Cardenas Acosta |
+| Hans Evangelista Pérez | Roy Palacios Rezza |
+| Jair Loayza Suasnabar | Víctor Chura Quispe |
+| Jason Martínez Vera | Víctor Mandujano Gutiérrez |
+| Jefferson Rondan Vilca
+| Jesús Lovon Melgarejo
+| Jonathan Durand Espinoza
+| Jorge Miranda Jaime
 
 Para estar al tanto de noticias sobre el grupo, nos puede seguir en [ProgramacionCompetitivaUNI](https://www.facebook.com/ProgramacionCompetitivaUNI/).
