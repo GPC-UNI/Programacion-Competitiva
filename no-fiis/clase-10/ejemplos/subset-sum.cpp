@@ -2,20 +2,19 @@
 
 using namespace std;
 
-int X, n, sum, ans;
+int X, n, sum;
 vector <int> a, choice;
 
 void backtracking(int idx = 0) {
     if (sum > X) return;
     if (sum == X) {
-        ans++;
         for (int c_i : choice) cout << c_i << ' ';
         cout << endl;
         return;
     }
     if (idx == n) return;
     sum += a[idx];
-    choice.push_back(idx);
+    choice.push_back(a[idx]);
     backtracking(idx + 1);
     sum -= a[idx];
     choice.pop_back();
@@ -27,6 +26,5 @@ int main() {
     n = a.size();
     X = 20;
     backtracking();
-    cout << ans << endl;
     return (0);
 }
