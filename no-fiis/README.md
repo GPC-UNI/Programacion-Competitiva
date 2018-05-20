@@ -10,4 +10,5 @@
 * [Clase 08: Contest I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/no-fiis/clase-08 'Clase 08')
 * [Clase 09: Recursión](https://github.com/PCUNI/Programacion-Competitiva/tree/master/no-fiis/clase-09 'Clase 09')
 * [Clase 10: Backtracking I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/no-fiis/clase-10 'Clase 10')
-
+* [Clase 11: Repaso](https://github.com/PCUNI/Programacion-Competitiva/tree/master/no-fiis/clase-11 'Clase 12')
+* [Clase 12: Programación Dinámica I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/no-fiis/clase-12 'Clase 12')
