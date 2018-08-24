@@ -1,5 +1,5 @@
 ﻿# Programación Competitiva UNI
-Curso de programación competitiva elaborado por el grupo de Programación Competitiva UNI, incluye material adicional como charlas y exámenes de selección.
+Material de programación competitiva elaborado por entrenadores de la Universidad Nacional de Ingeniería.
 
 ## Entrenadores :
 * José García Gonzales
@@ -12,10 +12,8 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 * Víctor Galván Oyola
 
 ## Integrantes del Grupo :
-* Alex Velasque Espinoza
 * Andrés Ocaris Maldonado
 * Bryan Cipriano Tarazona
-* Christian Huanatico Chombo
 * Claudio Flores Uceda
 * Cristian Lazo Quispe
 * Daniel Chávez Sánchez
@@ -26,7 +24,6 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 * Guillermo Inglis Vidal
 * Hans Acha Carranza
 * Hans Amaro Robladillo
-* Manuel Loaiza Vásquez
 * Roger Huauya Mamaní
 * Sergio Sánchez Rojas
 
@@ -34,18 +31,20 @@ Curso de programación competitiva elaborado por el grupo de Programación Compe
 
 | A - J | K - Z |
 | ------------- | ------------- |
-| Anthony Polin Matos | Kevin Bello Medina|
-| César Giglio Badoino | Laurence Perales Guerrero |
-| Daniel Soncco Huarsaya | Leonardo León Vera |
-| David López Davalos | Maicol Gómez Zegarra |
-| Diego Mansilla Mallqui | Mario Ynocente Castro |
-| Edgar Huaranga Junco | Maritza Lapa Romero |
-| Eduardo Meléndez Ramírez De Castilla | Ricardo Zárate Aima |
-| Francisco Fernández Berrocal | Roberto Hidalgo Castro |
-| Giancarlo Vargas Mendieta | Ronald Cardenas Acosta |
-| Hans Evangelista Pérez | Roy Palacios Rezza |
-| Jair Loayza Suasnabar | Víctor Chura Quispe |
-| Jason Martínez Vera | Víctor Mandujano Gutiérrez |
+| Alex Velasque Espinoza | Kevin Bello Medina|
+| Anthony Polin Matos | Laurence Perales Guerrero |
+| César Giglio Badoino | Leonardo León Vera |
+| Christian Huanatico Chombo | Maicol Gómez Zegarra |
+| Daniel Soncco Huarsaya | Manuel Loaiza Vásquez
+| David López Davalos | Mario Ynocente Castro |
+| Diego Mansilla Mallqui | Maritza Lapa Romero |
+| Edgar Huaranga Junco | Ricardo Zárate Aima |
+| Eduardo Meléndez Ramírez De Castilla | Roberto Hidalgo Castro |
+| Francisco Fernández Berrocal | Ronald Cardenas Acosta |
+| Giancarlo Vargas Mendieta | Roy Palacios Rezza |
+| Hans Evangelista Pérez | Víctor Chura Quispe |
+| Jair Loayza Suasnabar | Víctor Mandujano Gutiérrez |
+| Jason Martínez Vera
 | Jefferson Rondan Vilca
 | Jesús Lovon Melgarejo
 | Jonathan Durand Espinoza
