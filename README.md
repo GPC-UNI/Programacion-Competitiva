@@ -1,5 +1,5 @@
 ﻿# Programación Competitiva UNI
-Material de programación competitiva elaborado por entrenadores de la Universidad Nacional de Ingeniería.
+Material de programación competitiva elaborado por entrenadores de la Universidad Nacional de Ingeniería; si utiliza este material para algún curso, favor de considerar la referencia.
 
 ## Entrenadores :
 * José García Gonzales
