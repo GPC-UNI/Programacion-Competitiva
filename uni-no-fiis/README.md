@@ -12,3 +12,5 @@
 * [Clase 10: Backtracking I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/uni-no-fiis/clase-10 'Clase 10')
 * [Clase 11: Repaso](https://github.com/PCUNI/Programacion-Competitiva/tree/master/uni-no-fiis/clase-11 'Clase 12')
 * [Clase 12: Programación Dinámica I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/uni-no-fiis/clase-12 'Clase 12')
+* [Clase 13: Teoría de Numeros I](https://github.com/PCUNI/Programacion-Competitiva/tree/master/uni-no-fiis/clase-13 'Clase 13')
+* [Clase 14: Teoría de Juegos](https://github.com/PCUNI/Programacion-Competitiva/tree/master/uni-no-fiis/clase-14 'Clase 14')
