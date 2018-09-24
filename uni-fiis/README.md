@@ -5,3 +5,4 @@
 * [Clase 03: Problemas Ad Hoc](https://github.com/Rmg91/Competitive-Programming/tree/master/clase-03 'Clase 03')
 * [Clase 04: Análisis de Algoritmos I](https://github.com/Rmg91/Competitive-Programming/tree/master/clase-04 'Clase 04')
 * [Clase 05: Análisis de Algoritmos II](https://github.com/Rmg91/Competitive-Programming/tree/master/clase-05 'Clase 05')
+* [Ponencias](https://github.com/Rmg91/Competitive-Programming/tree/master/ponencias 'Ponencias')
