@@ -20,7 +20,6 @@ Material de programación competitiva elaborado por entrenadores de la Universid
 * Claudio Flores Uceda
 * Cristian Lazo Quispe
 * Daniel Chávez Sánchez
-* Diego López Gil
 * Diego Ucharima Ortiz
 * Felipe Montañez Sosa
 * Guillermo Inglis Vidal
