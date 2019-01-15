@@ -51,4 +51,6 @@ Material de programación competitiva elaborado por entrenadores de la Universid
 | Jonathan Durand Espinoza
 | Jorge Miranda Jaime
 
+*[Go](https://github.com/PCUNI/Programacion-Competitiva/tree/master/PASTMEMBERS.md)
+
 Para estar al tanto de noticias sobre el grupo, nos puede seguir en [ProgramacionCompetitivaUNI](https://www.facebook.com/ProgramacionCompetitivaUNI/).
